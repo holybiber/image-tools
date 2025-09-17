@@ -1,0 +1,13 @@
+[whatsapp_images]
+folder1 = /home/user/WhatsApp/Media/WhatsApp Images
+folder2 = /home/user/Backup/WhatsApp/Images
+
+[whatsapp_videos]
+folder1 = /home/user/WhatsApp/Media/WhatsApp Video
+
+[image_folders]
+folder1 = /home/user/DCIM/Camera
+folder2 = /home/user/Pictures/Import
+
+[output]
+base_folder = /home/user/OrganizedMedia
